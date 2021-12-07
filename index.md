@@ -35,6 +35,4 @@
 
 ### 수정 사항 및 기여
 
-이 페이지에 대한 수정 사항은 [오픈 채팅방](https://open.kakao.com/o/gQMfSjYb)으로 문의 주세요.
-
-GitHub 계정이 있으신 분들은 [에디터](https://github.com/dongbaek8/dongbaek8.github.io/edit/main/index.md)로 수정 후 Pull request를 하셔도 됩니다.
+이 페이지에 대한 수정 사항이나 추가할 정보가 있다면 [오픈 채팅방](https://open.kakao.com/o/gQMfSjYb)으로 말씀 부탁드립니다.
