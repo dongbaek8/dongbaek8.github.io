@@ -25,12 +25,12 @@
 #### 주소
  - 우편번호
    - 16999
- -  도로명
+ - 도로명
    - 경기도 용인시 기흥구 동백8로131번길 9
  - 지번
    - 경기도 용인시 기흥구 동백동 583
  - 영문 주소
-  - 9, Dongbaek 8-ro 131beon-gil, Giheung-gu, Yongin-si, Gyeonggi-do
+   - 9, Dongbaek 8-ro 131beon-gil, Giheung-gu, Yongin-si, Gyeonggi-do
 
 
 ### 수정 사항 및 기여
