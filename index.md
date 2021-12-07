@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 동백 백현마을 경남아너스빌 
 
-You can use the [editor on GitHub](https://github.com/dongbaek8/dongbaek8.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+안녕하세요. 동백 백현마을 경남아너스빌 생활 정보 페이지입니다.
 
-### Markdown
+### 주요 링크
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 경남아너스빌 카페: https://cafe.naver.com/dongbaekhumansia8
+- 경남아너스빌 오픈채팅방: https://open.kakao.com/o/gQMfSjYb
+- 경남아너스빌 국토부 실거래가: https://bit.ly/honorsville
+- 동백희망연대 카페: https://cafe.naver.com/wowdb
 
-```markdown
-Syntax highlighted code block
+### 연락처
 
-# Header 1
-## Header 2
-### Header 3
+- 관리사무소: **031-679-5160 (위치: 어린이집 2층)**
+- 동백1동 주민센터: **031-324-7632 (위치: 쥬네브 썬월드 6층)**
+- 삼천리 도시가스: **1544-3002**
+  - 가스 사용 및 가스기구 설치 시 연락
 
-- Bulleted
-- List
+### 기타 생활 정보
 
-1. Numbered
-2. List
+- [(펌)석성산 등산로](https://m.blog.daum.net/parthenon/6333519)
+  - [이미지 아카이브](https://user-images.githubusercontent.com/58725292/144945449-5697507a-cbe0-401b-b00f-c31c8e47d07d.png)
+- [(개인)동백 맛집 지도](https://www.google.com/maps/d/u/0/edit?mid=1WsNHO3IxS9GSrMqNi4sDDa9NKDuO3FS_&ll=37.28348106767852%2C127.1656237167677&z=17)
 
-**Bold** and _Italic_ and `Code` text
+### 수정 사항 및 기여
 
-[Link](url) and ![Image](src)
-```
+이 페이지에 대한 수정 사항은 [오픈 채팅방](https://open.kakao.com/o/gQMfSjYb)으로 문의 주세요.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dongbaek8/dongbaek8.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GitHub 계정이 있으신 분들은 [에디터](https://github.com/dongbaek8/dongbaek8.github.io/edit/main/index.md)로 수정 후 Pull request를 하셔도 됩니다.
