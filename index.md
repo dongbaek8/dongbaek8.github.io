@@ -6,16 +6,16 @@
 
 ### 주요 링크
 
-- 경남아너스빌 카페: https://cafe.naver.com/dongbaekhumansia8
-- 경남아너스빌 오픈채팅방: https://open.kakao.com/o/gQMfSjYb
-- 경남아너스빌 국토부 실거래가: https://bit.ly/honorsville
-- 동백희망연대 카페: https://cafe.naver.com/wowdb
+- 경남아너스빌 카페: [https://cafe.naver.com/dongbaekhumansia8](https://cafe.naver.com/dongbaekhumansia8)
+- 경남아너스빌 오픈채팅방: [https://open.kakao.com/o/gQMfSjYb](https://open.kakao.com/o/gQMfSjYb)
+- 경남아너스빌 국토부 실거래가: [https://bit.ly/honorsville](https://bit.ly/honorsville)
+- 동백희망연대 카페: [https://cafe.naver.com/wowdb](https://cafe.naver.com/wowdb)
 
 ### 연락처
 
-- 관리사무소: **031-679-5160 (위치: 어린이집 2층)**
-- 동백1동 주민센터: **031-324-7632 (위치: 쥬네브 썬월드 6층)**
-- 삼천리 도시가스: **1544-3002**
+- 관리사무소: **[031-679-5160] (위치: 어린이집 2층)**
+- 동백1동 주민센터: **[031-324-7632] (위치: 쥬네브 썬월드 6층)**
+- 삼천리 도시가스: **[1544-3002]**
   - 가스 사용 및 가스기구 설치 시 연락
 
 ### 기타 생활 정보
