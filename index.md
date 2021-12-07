@@ -19,7 +19,7 @@
 
 -  [석성산 등산로 안내](https://user-images.githubusercontent.com/58725292/144945449-5697507a-cbe0-401b-b00f-c31c8e47d07d.png)
    - [(출처)](https://m.blog.daum.net/parthenon/6333519)
-- [(개인)동백 맛집 지도](https://www.google.com/maps/d/u/0/edit?mid=1WsNHO3IxS9GSrMqNi4sDDa9NKDuO3FS_&ll=37.28348106767852%2C127.1656237167677&z=17)
+- (개인)동백 맛집 지도: [https://bit.ly/dongbaek-food](https://bit.ly/dongbaek-food)
 
 
 #### 주소
