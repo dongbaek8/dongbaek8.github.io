@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 @font-face {
-//    font-family: 'KoPubDotumMedium';
+    //font-family: 'KoPubDotumMedium';
+    // this was done in order to override the default font 
     font-family: 'Helvetica Neue';
      src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/KoPubDotumMedium.woff') format('woff');
     font-weight: normal;
