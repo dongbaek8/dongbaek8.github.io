@@ -12,7 +12,6 @@
 - 동백희망연대 카페: [https://cafe.naver.com/wowdb](https://cafe.naver.com/wowdb)
 
 ### 연락처
-<a href="https://test.test">a</a>
 - 관리사무소: <a href="tel:+8231-679-5160">031-679-5160</a> (위치: 어린이집 2층)
 - 동백1동 주민센터: <a href="tel:031-324-7632">031-324-7632</a> (위치: 쥬네브 썬월드 6층)
 - 삼천리 도시가스: <a href="tel:1544-3002">1544-3002</a>
