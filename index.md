@@ -1,7 +1,5 @@
 ## 동백 백현마을 경남아너스빌 
 
-### 소개
-
 안녕하세요. 동백 백현마을 경남아너스빌 생활 정보 페이지입니다.
 
 ### 주요 링크
@@ -22,6 +20,18 @@
 -  [석성산 등산로 안내](https://user-images.githubusercontent.com/58725292/144945449-5697507a-cbe0-401b-b00f-c31c8e47d07d.png)
    - [(출처)](https://m.blog.daum.net/parthenon/6333519)
 - [(개인)동백 맛집 지도](https://www.google.com/maps/d/u/0/edit?mid=1WsNHO3IxS9GSrMqNi4sDDa9NKDuO3FS_&ll=37.28348106767852%2C127.1656237167677&z=17)
+
+
+#### 주소
+ - 우편번호
+   - 16999
+ -  도로명
+   - 경기도 용인시 기흥구 동백8로131번길 9
+ - 지번
+   - 경기도 용인시 기흥구 동백동 583
+ - 영문 주소
+  - 9, Dongbaek 8-ro 131beon-gil, Giheung-gu, Yongin-si, Gyeonggi-do
+
 
 ### 수정 사항 및 기여
 
