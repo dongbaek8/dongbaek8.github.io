@@ -17,9 +17,8 @@
 - 대형마트 휴무일: 매주 2/4번째 일요일
 - [대륙할인마트(전단지/온라인 배달 주문)](https://m.posk.kr/c/a/ANIAOX)
 - [이마트 전단 광고](https://emartapp.emart.com/leaflet/leafletView_EL.do?&image_pop=true)
-- [석성산 등산로 안내](https://user-images.githubusercontent.com/58725292/144945449-5697507a-cbe0-401b-b00f-c31c8e47d07d.png)
-   - [(출처)](https://m.blog.daum.net/parthenon/6333519)
-- (개인)동백 맛집 지도: [https://bit.ly/dongbaek-food](https://bit.ly/dongbaek-food)
+- [석성산 등산로 안내](https://user-images.githubusercontent.com/58725292/144945449-5697507a-cbe0-401b-b00f-c31c8e47d07d.png)  -  [(출처)](https://m.blog.daum.net/parthenon/6333519)
+- [(개인)동백 맛집 지도](https://bit.ly/dongbaek-food)
 
 
 #### 주소
