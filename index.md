@@ -17,7 +17,7 @@
 
 #### 쇼핑 정보
 대형마트 휴무일: 매주 2/4번째 일요일
-- [대륙할인마트(전단지/온라인 배달 주문)](https://m.posk.kr/c/a/ANIAOX)
+- [대륙할인마트(전단지/온라인 배달 주문)](https://m.posk.kr/c/a/AFRFBF)
 - [이마트 전단 광고](https://emartapp.emart.com/leaflet/leafletView_EL.do?&image_pop=true)
 
 #### 분리수거 배출
